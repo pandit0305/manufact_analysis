@@ -51,4 +51,4 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 ## Screenshots of Wine Data bar plot
 
-<img src="https://github.com/pandit0305/manufact_analysis/blob/main/public/wine-bar-plot.png"/>
+<img src="https://github.com/pandit0305/manufact_analysis/blob/main/public/bar-chart.png"/>
